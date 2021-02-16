@@ -1,6 +1,7 @@
 Deep neural networks for detection of COVID-19, pneumonia and healthy individuals. For more information please read: https://arxiv.org/abs/2005.01578v4
 
 Abstract:
+
 Purpose: We present image classifiers based on Dense Convolutional Networks and transfer learning to classify chest X-ray images according to three labels: COVID-19, pneumonia and normal.
 Methods: We fine-tuned neural networks pretrained on ImageNet and applied a twice transfer learning approach, using NIH ChestX-ray14 dataset as an intermediate step. We also suggested a novelty called output neuron keeping, which changes the twice transfer learning technique. In order to clarify the modus operandi of the models, we used Layer-wise Relevance Propagation (LRP) to generate heatmaps.
 Results: We were able to reach test accuracy of 100% on our test dataset. Twice transfer learning and output neuron keeping showed promising results improving performances, mainly in the beginning of the training process. Although LRP revealed that words on the X-rays can influence the networks' predictions, we discovered this had only a very small effect on accuracy.
