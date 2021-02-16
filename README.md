@@ -1,4 +1,4 @@
-Networks for detection of COVID-19, pneumonia and healthy individuals. For more information please read: https://arxiv.org/abs/2005.01578v4
+Deep neural networks for detection of COVID-19, pneumonia and healthy individuals. For more information please read: https://arxiv.org/abs/2005.01578v4
 
 Abstract:
 Purpose: We present image classifiers based on Dense Convolutional Networks and transfer learning to classify chest X-ray images according to three labels: COVID-19, pneumonia and normal.
