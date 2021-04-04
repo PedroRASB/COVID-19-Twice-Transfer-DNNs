@@ -1,4 +1,4 @@
-Deep neural networks for detection of COVID-19, pneumonia and healthy individuals. For more information please read: http://link.springer.com/article/10.1007/s42600-021-00132-9
+Deep neural networks for detection of COVID-19, pneumonia and healthy individuals. For more information please read the article: http://link.springer.com/article/10.1007/s42600-021-00132-9
 
 Abstract:
 
